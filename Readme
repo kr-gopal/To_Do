@@ -1,0 +1,8 @@
+//  install npm
+npm install
+
+// install bower
+bower install 
+
+// install mongoose to connect mongoDB
+install mongoose --save
